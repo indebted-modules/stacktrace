@@ -1,0 +1,4 @@
+name: modules-stacktrace
+steps:
+  - label: ":pipeline:"
+    command: buildkite-agent pipeline upload
